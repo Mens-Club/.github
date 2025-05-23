@@ -11,7 +11,7 @@
 
 ## 👥 팀원 소개
 
-황의철|김민호|박제형|지용욱|원예은
+황의철(팀장)|김민호|박제형|지용욱|원예은
 :-:|:-:|:-:|:-:|:-:
 <img src='https://avatars.githubusercontent.com/u/109947779?s=70&v=4' width='130' height='130'>|<img src='https://avatars.githubusercontent.com/u/150321769?v=4' width='130' height='130'>|<img src='https://avatars.githubusercontent.com/u/192846476?v=4' width='130' height='130'>|<img src='https://avatars.githubusercontent.com/u/52349219?s=70&v=4' width='130' height='130'>|<img src='https://avatars.githubusercontent.com/u/127736621?s=70&v=4' width='130' height='130'>
 <a href="https://github.com/UICHEOL-HWANG" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>|<a href="https://github.com/Kkaemii" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>|<a href="https://github.com/PJH-02" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>|<a href="https://github.com/GitSkyBlue" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>|<a href="https://github.com/yetk124" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white"/></a>
