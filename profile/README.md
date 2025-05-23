@@ -9,8 +9,50 @@
 
 ### 팀원 
 
+<h2>👨‍💻 팀원 소개</h2>
 
-
+<table>
+  <thead>
+    <tr>
+      <th>이름</th>
+      <th>역할</th>
+      <th>프로필 이미지</th>
+      <th>GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>황의철</strong></td>
+      <td>팀장</td>
+      <td><img src="https://avatars.githubusercontent.com/u/109947779?s=70&v=4" width="70"/></td>
+      <td><a href="https://github.com/UICHEOL-HWANG" target="_blank">UICHEOL-HWANG</a></td>
+    </tr>
+    <tr>
+      <td>김민호</td>
+      <td>팀원</td>
+      <td><img src="https://avatars.githubusercontent.com/u/150321769?v=4" width="70"/></td>
+      <td><a href="https://github.com/Kkaemii" target="_blank">Kkaemii</a></td>
+    </tr>
+    <tr>
+      <td>박제형</td>
+      <td>팀원</td>
+      <td><img src="https://avatars.githubusercontent.com/u/192846476?v=4" width="70"/></td>
+      <td><a href="https://github.com/PJH-02" target="_blank">PJH-02</a></td>
+    </tr>
+    <tr>
+      <td>지용욱</td>
+      <td>팀원</td>
+      <td><img src="https://avatars.githubusercontent.com/u/52349219?s=70&v=4" width="70"/></td>
+      <td><a href="https://github.com/GitSkyBlue" target="_blank">GitSkyBlue</a></td>
+    </tr>
+    <tr>
+      <td>원예은</td>
+      <td>팀원</td>
+      <td><img src="https://avatars.githubusercontent.com/u/127736621?s=70&v=4" width="70"/></td>
+      <td><a href="https://github.com/yetk124" target="_blank">yetk124</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### WBS
 
