@@ -129,6 +129,30 @@ gantt
 > 5. 로깅서버는 `Back Server`에서 생길 수 있는 모든 로그를 수집하여 `Logstash`, `Elastic Search` 를 통해 로그를 전송하였고,모델 추론시 발생한 모든 내역을 `Prometheus`, `PushGateWay`(`Serverless`로 인해 로그 수집 연동에 제한이 있어 해당 솔루션을 이용)
 > 6. 마지막으로 `mlflow`, `airflow`를 통해 모델의 훈련 매트릭과 오브젝트를 스토리지에 저장, 또한 훈련 주기를 자동화 하는 워크플로우를 구성
 
+# 협업 과정 
+- 노션 : 일정표에 따라 `시작전`, `진행중`, `완료`로 나누어 체계적으로 관리하며 어떻게 준비하였고 어떤 인사이트를 얻으며 마무리 했는지를 정리
+
+- 주요 정리 내용 
+<img width="1081" alt="image" src="https://github.com/user-attachments/assets/c2b8593e-8d57-4ef3-87e8-1f2a0a605b9e" />
+
+- 일정 관리
+
+<img width="922" alt="image" src="https://github.com/user-attachments/assets/8bd23744-e40a-4d4b-9086-9c09a7f2a1d4" />
+
+- 오프라인 회의
+  - 매일 오전 9시 40분마다 모여 10분간 오프라인 회의를 하며 자신이 생각한 부분을 화이트보드를 활용하여 그려내며 내용을 정리, 협의 후 협의 내용 적용
+ 
+
+- 주요 회의 내용
+  
+![IMG_6833](https://github.com/user-attachments/assets/a1307549-19f6-4bce-a690-33fa86a4db6c)
+
+![IMG_6835](https://github.com/user-attachments/assets/fb0eb3a9-fb72-4434-a1b4-8502a099b6d1)
+
+![IMG_6856](https://github.com/user-attachments/assets/f5950334-293a-4551-bde4-9e70177c3791)
+
+
+
 
 <!--
 
