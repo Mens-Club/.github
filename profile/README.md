@@ -117,6 +117,17 @@ gantt
 
 - 최소한의 기능을 우선적으로 구현한 후 이후 팀원들과의 상의를 통해 점진적으로 개발하는 `Agile FrameWork` 기반으로 진행
 
+# Service Architecture
+
+![Service Architecture (2)](https://github.com/user-attachments/assets/2be1d834-9420-4a5b-8969-794ccd26323c)
+
+> 주요 아키텍처 정보
+> 1. 총 4개의 컴퓨터로 이용
+> 2. 웹서버, 로깅서버, 데이터베이스서버, 트래킹서버 4가지로 나누어 각자 독립된 환경에서 작업을 실행할 수 있도록 상호 의존도를 낮춤
+> 3. 웹서버는 초기 뼈대 구축 후 바로 배포하며 설정이 추가되거나 버그 발생시 바로 수정할 수 있도록 `CI` 파인프라인 구축
+> 4. 모델서버는 `Runpod Serverless` 를 활용하여 고비용 GPU 서버를 필요로 하지 않고 바로 추론할 수 있도록 배치
+> 5. 로깅서버는 `Back Server`에서 생길 수 있는 모든 로그를 수집하여 `Logstash`, `Elastic Search` 를 통해 로그를 전송하였고,모델 추론시 발생한 모든 내역을 `Prometheus`, `PushGateWay`(`Serverless`로 인해 로그 수집 연동에 재한이 있어 해당 솔루션을 이용)
+> 6. 마지막으로 `mlflow`, `airflow`를 통해 모델의 훈련 매트릭과 오브젝트를 스토리지에 저장, 또한 훈련 주기를 자동화 하는 워크플로우를 구성
 
 
 <!--
