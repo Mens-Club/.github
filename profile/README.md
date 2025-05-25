@@ -119,7 +119,9 @@ gantt
 
 # Service Architecture
 
-![Service Architecture (2)](https://github.com/user-attachments/assets/2be1d834-9420-4a5b-8969-794ccd26323c)
+![Service Architecture drawio](https://github.com/user-attachments/assets/6041f2ca-1651-4e50-b6d5-1503c4a38839)
+
+
 
 > 주요 아키텍처 정보
 > 1. 총 4개의 컴퓨터로 이용
