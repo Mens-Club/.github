@@ -153,8 +153,15 @@ gantt
 
 ![IMG_6856](https://github.com/user-attachments/assets/f5950334-293a-4551-bde4-9e70177c3791)
 
+-----
 
+# 각 프로젝트별 README 보기 
 
+🧠[Model](https://github.com/Mens-Club/Model.git)
+
+💻[Web](https://github.com/Mens-Club/Web.git)
+
+🛠️[Operation](https://github.com/Mens-Club/Web.git)
 
 <!--
 
