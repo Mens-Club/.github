@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/09757262-63ac-4db3-8fad-df352699c729)# Men's CLUB 
+# Men's CLUB 
 
 ## AI 기반 코디 추천 서비스 - 패션 초보 2030 남성을 위한 맞춤형 스타일링
 
