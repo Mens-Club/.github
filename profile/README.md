@@ -1,4 +1,4 @@
-# Men's CLUB 
+![image](https://github.com/user-attachments/assets/09757262-63ac-4db3-8fad-df352699c729)# Men's CLUB 
 
 ## AI 기반 코디 추천 서비스 - 패션 초보 2030 남성을 위한 맞춤형 스타일링
 
@@ -79,7 +79,28 @@ https://github.com/user-attachments/assets/6dd01a9a-9354-413b-90cf-e4a9cd0a7e86
 > 6. 3가지 조합을 [미니멀, 캐주얼] 2가지 스타일로 조합하여 나옴 -> 마음에 들면 찜 버튼(북마크)
 > 7. 마이페이지를 통해 조회 가능하며, 내가 추천 받았던 아이템은 익명으로 메인 페이지에 추천 내역을 통해 전시 
 
--------
+## 화면 구성 
+
+- 메인 페이지
+
+![image](https://github.com/user-attachments/assets/56f0c8ef-95d3-47bf-a55d-714934e4155a)
+
+- 의류사진 촬영 페이지
+
+![image](https://github.com/user-attachments/assets/22da2892-1ce6-46a1-ae22-caf2dc48d943)
+
+- 마이페이지
+
+![image](https://github.com/user-attachments/assets/ccdaaee0-a8a9-41e1-9335-dfc87b8f4590)
+
+- 찜(북마크)
+
+![image](https://github.com/user-attachments/assets/6d404546-0507-4c7a-8ce0-6aeafa4e2996)
+
+- 회원정보 수정
+
+![image](https://github.com/user-attachments/assets/33028cd4-a439-453b-bb8e-859538796f7f)
+
 
 
 ## 👥 팀원 소개
