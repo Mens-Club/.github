@@ -6,8 +6,6 @@
 <img width="1388" alt="image" src="https://github.com/user-attachments/assets/0b1f5fd9-6739-4e19-b995-69d695d2918b" />
 
 
-
-
 > Mens-CLUB은 패션 코디에 어려움을 겪는 남성들을 위한 AI 기반 패션 추천 서비스입니다. 멀티모달 AI 모델을 패션 도메인에 특화하여 미세조정하였고, 방대한 패션 데이터베이스를 구축했습니다.
 
 > 사용자가 휴대폰으로 촬영한 의류 사진만으로도 어울리는 코디 아이템을 즉시 추천받을 수 있습니다. 또한 체계적으로 분류된 패션 데이터를 벡터 스토어에 저장하여 유사도 기반 검색을 통해 더욱 정확하고 개인화된 스타일링 솔루션을 제공합니다.
@@ -60,7 +58,14 @@
 3. 합리적 소비 지향
   - 사용자가 보유한 의류를 우선 활용하여 불필요한 과소비를 방지하고, 정말 필요한 아이템만을 추천해 현명한 구매를 돕습니다.
 
--------
+
+## Data
+
+<img width="918" alt="image" src="https://github.com/user-attachments/assets/b4562410-b1ff-4c6a-8461-82676ed7883c" />
+
+<img width="812" alt="image" src="https://github.com/user-attachments/assets/37f98cad-b247-4132-8c83-0460f82dcb2d" />
+
+- 단계별로 목표를 나누어 설정 후, 수집한 데이터를 기반으로 훈련용으로 적합한지에 대한 자체적인 평가를 하여 학습을 진행하였습니다. 
 
 ## Use Case 
 
@@ -76,7 +81,6 @@ https://github.com/user-attachments/assets/6dd01a9a-9354-413b-90cf-e4a9cd0a7e86
 
 -------
 
-### 팀원 
 
 ## 👥 팀원 소개
 
