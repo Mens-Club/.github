@@ -144,8 +144,7 @@ gantt
 
 # Service Architecture
 
-![Service Architecture drawio](https://github.com/user-attachments/assets/6041f2ca-1651-4e50-b6d5-1503c4a38839)
-
+![service Architecture](https://github.com/user-attachments/assets/14d91320-364c-4b5c-9ffd-caa99e92a705)
 
 
 > 주요 아키텍처 정보
