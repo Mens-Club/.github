@@ -144,7 +144,8 @@ gantt
 
 # Service Architecture
 
-![service Architecture](https://github.com/user-attachments/assets/14d91320-364c-4b5c-9ffd-caa99e92a705)
+![service Architecture](https://github.com/user-attachments/assets/22d785e8-eee9-4dca-9766-b1536b342586)
+
 
 
 > 주요 아키텍처 정보
@@ -154,6 +155,12 @@ gantt
 > 4. 모델서버는 `Runpod Serverless` 를 활용하여 고비용 GPU 서버를 필요로 하지 않고 바로 추론할 수 있도록 배치
 > 5. 로깅서버는 `Back Server`에서 생길 수 있는 모든 로그를 수집하여 `Logstash`, `Elastic Search` 를 통해 로그를 전송하였고,모델 추론시 발생한 모든 내역을 `Prometheus`, `PushGateWay`(`Serverless`로 인해 로그 수집 연동에 제한이 있어 해당 솔루션을 이용)
 > 6. 마지막으로 `mlflow`, `airflow`를 통해 모델의 훈련 매트릭과 오브젝트를 스토리지에 저장, 또한 훈련 주기를 자동화 하는 워크플로우를 구성
+
+
+## 시스템 아키텍처 
+
+![image](https://github.com/user-attachments/assets/4d5e2549-a724-4f9e-831d-53076d611144)
+
 
 # 협업 과정 
 - 노션 : 일정표에 따라 `시작전`, `진행중`, `완료`로 나누어 체계적으로 관리하며 어떻게 준비하였고 어떤 인사이트를 얻으며 마무리 했는지를 정리
@@ -185,7 +192,7 @@ gantt
 
 💻[Web](https://github.com/Mens-Club/Web.git)
 
-🛠️[Operation](https://github.com/Mens-Club/Web.git)
+🛠️[Operation](https://github.com/Mens-Club/Operation.git)
 
 <!--
 
